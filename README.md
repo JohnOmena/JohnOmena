@@ -16,7 +16,7 @@ Hi there, I'm **John Omena**, a **Data enthusiast**, more specifically a **Data 
 - 🎶 Indie Rock is my favorit kind of music;
 - 📚 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via jvfo@ic.ufal.com to reach me.
+- 📫 Please email via jvfo@ic.ufal.br to reach me.
 
 
 **Languages and Tools:**  
