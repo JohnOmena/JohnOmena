@@ -8,7 +8,7 @@
 
 Hi there, I'm **John Omena**, a **Data enthusiast**, more specifically a **Data Engineer**, I'm from Brazil 🚀
 
-  <img align="right" height="250" width="380" alt="GIF" src="https://media4.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=ecf05e470trbcqrgy52bkgg5nr1dfhyg2slumtgb04g9xb3d&rid=giphy.gif&ct=g" />
+  <img align="right" height="250" width="480" alt="GIF" src="https://media4.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=ecf05e470trbcqrgy52bkgg5nr1dfhyg2slumtgb04g9xb3d&rid=giphy.gif&ct=g" />
 
 **Talking about Personal Stuffs:**
 
