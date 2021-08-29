@@ -24,7 +24,8 @@ Hi there, I'm **John Omena**, a **Data enthusiast**, more specifically a **Data 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"></code>
 <code><img height="20" src="https://image.flaticon.com/icons/png/512/2772/2772128.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_170706.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png"></code>
+<code><img height="20" src="https://icon-library.com/images/no-sql-icon/no-sql-icon-21.jpg"></code>
+<code><img height="20" src="https://webimages.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png?auto=format%2Ccompress"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
