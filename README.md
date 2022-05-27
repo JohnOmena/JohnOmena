@@ -12,7 +12,7 @@ Hi there, I'm **John Omena**, a **Developer** and **Data enthusiast**, I'm from 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I'm currently looking to learn more about the *Web Development* and *data engineering* area;
+- 👨🏽‍💻 I'm currently looking to learn more about the **Web Development** and **data engineering** area;
 - 🎶 Indie Rock is my favorit kind of music;
 - 📚 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
